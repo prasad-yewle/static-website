@@ -2,8 +2,8 @@
 This website is based on Elon Musk.
 <h4>How to run:</h4>
 <p>Create a folder with a suitable name at your desired location.</p>
-<p>Copy all the existing folders and files and paste it into your created folder.</p>
-<p>Open Visual Studio Code and open the created folder.</p>
+<p>Copy all the above existing folders and files and paste it into your created folder.</p>
+<p>Open the created folder in Visual Studio Code.</p>
 <p>Run home.html file.</p>
 <h4>Screenshots:</h4>
 <div align="center">
